@@ -3,7 +3,7 @@ const cakesData = [
     {
         id: 1,
         name: "Strawberry Cupcakes",
-        price: 350000,
+        price: 35000,
         description: "Kue cupcake lembut dengan dekorasi strawberry yang lucu dan menyenangkan.",
         image: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dW5pY29ybiUyMGNha2V8ZW58MHx8MHx8fDA%3D"
     },
@@ -31,14 +31,14 @@ const cakesData = [
     {
         id: 5,
         name: "Red Velvet Cake",
-        price: 320000,
+        price: 35000,
         description: "Kue berwarna merah dengan tekstur lembut, dilapisi dengan cream cheese frosting creamy.",
         image: "https://images.unsplash.com/photo-1616541823729-00fe0aacd32c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwdmVsdmV0JTIwY2FrZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
         id: 6,
         name: "Strawberry Cheesecake",
-        price: 270000,
+        price: 27000,
         description: "Cheesecake lembut dengan topping strawberry. Perpaduan rasa asam dan manis yang segar.",
         image: "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3RyYXdiZXJyeSUyMGNoZWVzZWNha2V8ZW58MHx8MHx8fDA%3D"
     },
